@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Don't Mind Me (feat. Sota Hanamura)",
+  "base_artist": "Ayumu Imazu",
+  "createdAt": "2026-02-28T14:47:38.488917Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Mind Me (feat. Sota Hanamura)",
+      "artist": "Ayumu Imazu",
+      "has_synced": true,
+      "path": "select/01_Don't_Mind_Me_(feat._Sota_Hanamura)_Ayumu_Imazu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Mind Me (feat. Crispy 脆樂團)",
+      "artist": "楊乃文",
+      "has_synced": true,
+      "path": "select/02_Don't_Mind_Me_(feat._Crispy_脆樂團)_楊乃文.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Mind Me (feat. Crispy 脆樂團)",
+      "artist": "Naiwen Yang",
+      "has_synced": true,
+      "path": "select/03_Don't_Mind_Me_(feat._Crispy_脆樂團)_Naiwen_Yang.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Mind Me (feat. Meet Sims)",
+      "artist": "Chinx",
+      "has_synced": true,
+      "path": "select/04_Don't_Mind_Me_(feat._Meet_Sims)_Chinx.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Mind Me (feat. Meet Sims)",
+      "artist": "Chinx",
+      "has_synced": true,
+      "path": "select/05_Don't_Mind_Me_(feat._Meet_Sims)_Chinx.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Mind Me (feat. 花村想太)",
+      "artist": "Ayumu Imazu",
+      "has_synced": true,
+      "path": "select/06_Don't_Mind_Me_(feat._花村想太)_Ayumu_Imazu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Mind Me (feat. Rich the Kid, Zoey Dollaz & Famous Dex)",
+      "artist": "TK Kravitz",
+      "has_synced": false,
+      "path": "select/07_Don't_Mind_Me_(feat._Rich_the_Kid,_Zoey_Dollaz_&_Famous_Dex)_TK_Kravitz.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Mind Me (feat. 花村想太)",
+      "artist": "Ayumu Imazu",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Mind_Me_(feat._花村想太)_Ayumu_Imazu.txt"
+    }
+  ]
+}
